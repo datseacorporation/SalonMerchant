@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "540682467456",
+    "firebase_url": "https://saloonapp-2a923.firebaseio.com",
+    "project_id": "saloonapp-2a923",
+    "storage_bucket": "saloonapp-2a923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540682467456:android:b3de6067f8853926",
+        "android_client_info": {
+          "package_name": "com.datseacorporation.salonmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540682467456-j5rqk4he6ou9vko702n8l76u8ct4939k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datseacorporation.salonmerchant",
+            "certificate_hash": "1c248fb9372107e8ad89a43ecb289e70dd41d7e1"
+          }
+        },
+        {
+          "client_id": "540682467456-ba2ri9bq8f8s8snu1rdjnpdk5e1hoa28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1tppMLDNGPwZTOYvUlpmcTNp-SosGl10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540682467456-ba2ri9bq8f8s8snu1rdjnpdk5e1hoa28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540682467456:android:5cbc022c62ee50bc",
+        "android_client_info": {
+          "package_name": "com.datseacorporation.saloonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540682467456-uok0f4shgolerahnrplcqj2tpaj8h50c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datseacorporation.saloonapp",
+            "certificate_hash": "1c248fb9372107e8ad89a43ecb289e70dd41d7e1"
+          }
+        },
+        {
+          "client_id": "540682467456-ba2ri9bq8f8s8snu1rdjnpdk5e1hoa28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1tppMLDNGPwZTOYvUlpmcTNp-SosGl10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540682467456-ba2ri9bq8f8s8snu1rdjnpdk5e1hoa28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540682467456:android:3a981beb8551698b",
+        "android_client_info": {
+          "package_name": "com.datseacorporation.saloonmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540682467456-55reguk80p7e728h41ioc417gtujvi2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datseacorporation.saloonmerchant",
+            "certificate_hash": "1c248fb9372107e8ad89a43ecb289e70dd41d7e1"
+          }
+        },
+        {
+          "client_id": "540682467456-ba2ri9bq8f8s8snu1rdjnpdk5e1hoa28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1tppMLDNGPwZTOYvUlpmcTNp-SosGl10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540682467456-ba2ri9bq8f8s8snu1rdjnpdk5e1hoa28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

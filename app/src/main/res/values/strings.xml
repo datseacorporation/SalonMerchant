@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Salon Merchant</string>
+    <string name="login">Salon Login</string>
+    <string name="email">Email</string>
+    <string name="v1_0_0">v1.0.0</string>
+    <string name="password">Password</string>
+    <string name="btlogin">Login</string>
+    <string name="salon_registration">Salon Registration</string>
+    <string name="next">Next</string>
+    <string name="street_address">Street Address</string>
+    <string name="saloon_name">Saloon Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="total_employees">Total Employees : </string>
+    <string name="button">Button</string>
+    <string name="upload_salon_image">Upload Salon Image</string>
+    <string name="todo">TODO</string>
+    <string name="complete_registration">Complete Registration</string>
+    <string name="connecting_to_server">Connecting to server...</string>
+    <string name="apt_item">Appointments</string>
+    <string name="client_item">Clients</string>
+    <string name="invent_item">Inventory</string>
+    <string name="services_item">Services</string>
+    <string name="more_item">More</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="assign_tasks">Assign Task</string>
+    <string name="profilepic">profilePic</string>
+    <string name="_10_30_npm">10:30 PM</string>
+    <string name="textview">TextView</string>
+    <string name="hair_cutting_shaving_hair_color">Hair Cutting, Shaving, Hair Color</string>
+    <string name="view_appointment">View Appointment</string>
+    <string name="today_09_30_am">09:30 AM</string>
+    <string name="_00_00_am">00:00 AM</string>
+    <string name="date_selector">Date Selector</string>
+    <string name="verifiedbadge">verifiedBadge</string>
+    <string name="bookingid">BookingID</string>
+    <string name="sahil_singh">Sahil Singh</string>
+    <string name="male">Male</string>
+    <string name="_12_08_2018">12-08-2018</string>
+    <string name="_350">₹350</string>
+    <string name="_917389410182">+917389410182</string>
+    <string name="_000">₹000</string>
+    <string name="services">Services</string>
+    <string name="service_name">Service Name</string>
+    <string name="service_cost">Service Cost</string>
+    <string name="service_duration">Service Duration</string>
+    <string name="service_description">Service Description</string>
+    <string name="add_service">add service</string>
+    <string name="hair_cutting">Hair Cutting</string>
+    <string name="_00_30">00:30</string>
+    <string name="_125">₹125</string>
+    <string name="this_is_the_normal_hair_cut">This is the normal hair cut.</string>
+    <string name="editservice">editService</string>
+    <string name="deleteservice">deleteService</string>
+    <string name="more">More</string>
+    <string name="edit_your_profile"> Edit Your Profile</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="signout">Signout</string>
+    <string name="v1_0_0_alpha">v1.0.0 (alpha)</string>
+    <string name="total_appointments">Total Appointments</string>
+    <string name="reports">Reports</string>
+    <string name="manage_stylists">Manage Stylists</string>
+    <string name="stylists">Stylists</string>
+    <string name="edit_business_profile">Edit Business Profile</string>
+    <string name="business_profile">Business Profile</string>
+    <string name="edit_my_business">Edit My Business</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/apptItem"
+        android:icon="@drawable/ic_schedule_black_24dp"
+        android:title="@string/apt_item" />
+    <item
+        android:id="@+id/servicesItem"
+        android:icon="@drawable/ic_work_black_24dp"
+        android:title="@string/services_item" />
+    <item
+        android:id="@+id/moreItem"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:title="@string/more_item" />
+</menu>
